@@ -28,6 +28,7 @@ The [suckless terminal (st)](https://st.suckless.org/) with some additional feat
 + Scrollback
 + font2
 + updated to latest version 0.8.2
++ support for [font ligatures](https://github.com/cog1to/st-ligatures)
 
 ## Installation for newbs
 
